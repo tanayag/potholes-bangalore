@@ -11,9 +11,9 @@ Application aims to track potholes in and around bangalore.
 ### Features
 - [ ] User Should be able to Login and create account.
 - [ ] Lightweight Mobile Yolo Model to detect if uploaded picture is of a Pothole and not a Dick Pic.
-- [ ] For every successful pothole picture, user gets a pothole coin(number of pothole coins would define user credibility).
+- [ ] For every successful pothole picture, user gets a pothole coin, number of pothole coins would define user credibility so basically no use.
 - [ ] Geo Tagging For the Picture, to generate live stats.
-- [ ] Affirmation from user if the location is right, if not correct it.
+- [ ] Affirmation from user if the location is right, if not, we'll ask them to correct it.
 
 ### Tech Stack
 A simple architecture consists of a [boiler-plate code](https://github.com/vintasoftware/django-react-boilerplate) 
